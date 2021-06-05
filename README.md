@@ -7,7 +7,7 @@
 
 - Meu e-mail **luciano.erick.filho@ccc.ufcg.edu.br**
 
-- Meu currículo [https://drive.google.com/file/d/1PNRxD9kndXy92zI7nFGmAcDSoRweK6el/view?usp=sharing](https://drive.google.com/file/d/1PNRxD9kndXy92zI7nFGmAcDSoRweK6el/view?usp=sharing)
+<!-- - Meu currículo [https://drive.google.com/file/d/1PNRxD9kndXy92zI7nFGmAcDSoRweK6el/view?usp=sharing](https://drive.google.com/file/d/1PNRxD9kndXy92zI7nFGmAcDSoRweK6el/view?usp=sharing) -->
 
 <h4 align="left">Minhas redes sociais:</h2>
 <a href="https://twitter.com/lucer1ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucer1ck" height="35" width="60"/></a>
