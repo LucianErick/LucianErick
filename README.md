@@ -15,7 +15,7 @@
 <a href="https://instagram.com/lucian_erick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucian_erick" height="35" width="60"/></a>
 <a href="https://discord.gg/Luciano Figueiredo#5150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luciano Figueiredo#5150" height="35" width="60"/></a>
 
-<br>
+<br><br>
 <h3 align="left"> Tecnologias que uso <h3>
 <h4 align="left"> front-end:</h4>
 <p align="left"> 
