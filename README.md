@@ -23,7 +23,7 @@
 ## Social
 
 [![Instagram](https://img.shields.io/badge/@lucian_erick-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucian_erick/?hl=pt-br)
-[![Twitter](https://img.shields.io/badge/@reisdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lucer1ck)
+[![Twitter](https://img.shields.io/badge/@lucer1ck-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lucer1ck)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-figueiredo/)
 
